@@ -1,2 +1,2 @@
 # CommonEntropy-for-CausalInference
-Implementation of the Paper "Applications of Common Entropy for Causal Inference"
+Implementation of the 2020 NIPS Paper "Applications of Common Entropy for Causal Inference".
